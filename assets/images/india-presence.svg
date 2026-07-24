@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 520" role="img" aria-label="India map silhouette">
+  <rect width="420" height="520" fill="none"/>
+  <path d="M178 34l48 15 30 32 43 17 6 42 32 23-14 38 25 34-28 41 6 55-35 41-9 53-43 10-31 52-47-72-53-19-16-48-38-24 21-54-18-42 38-34 3-48 42-30 9-54Z" fill="#ffffff" stroke="#1C4E9E" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M166 60l34 72 55 44-26 80 42 90-45 92" fill="none" stroke="#C79B3B" stroke-width="8" stroke-linecap="round" opacity=".65"/>
+  <path d="M102 235h180M130 316h176M176 392h72" stroke="#2E8B57" stroke-width="7" stroke-linecap="round" opacity=".6"/>
+</svg>

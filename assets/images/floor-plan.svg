@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="Floor plan">
+  <rect width="900" height="560" fill="#fff"/>
+  <rect x="80" y="70" width="740" height="420" fill="#F5F7FA" stroke="#0A2342" stroke-width="12"/>
+  <path d="M320 70v420M570 70v420M80 250h740M320 370h250" stroke="#0A2342" stroke-width="8"/>
+  <rect x="112" y="112" width="158" height="92" fill="#C79B3B" opacity=".45"/><rect x="612" y="105" width="160" height="100" fill="#1C4E9E" opacity=".2"/>
+  <path d="M405 155h95M405 205h95M120 318h130M615 314h130" stroke="#2E8B57" stroke-width="7" stroke-linecap="round"/>
+</svg>
